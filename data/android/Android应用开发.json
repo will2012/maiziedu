@@ -1,0 +1,129 @@
+[
+  {
+    "link": "http://www.maiziedu.com/course/course/android/12-80",
+    "name": "Android App 开发环境搭建和配置"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/4-2",
+    "name": "Java 语言基础"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/9-50",
+    "name": "Eclipse IDE 使用技巧"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/10-57",
+    "name": "Android 编码规范及代码风格"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/13-86",
+    "name": "Android App开发起手式 - HelloWorld 二三事"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/14-2077",
+    "name": "Android的面孔 - Activity"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/15-139",
+    "name": "Android 基础UI控件"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/55-2537",
+    "name": "Android 项目实战一：AA小助手"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/56-644",
+    "name": "Android Service & Broadcast"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/57-660",
+    "name": "Android 存储及数据操作"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/58-679",
+    "name": "Android ContentProvider"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/59-685",
+    "name": "Android 多线程与异步任务"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/60-502",
+    "name": "Android 网络编程"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/62-723",
+    "name": "Android 主题及动画的实现"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/377-4352",
+    "name": "Android 高级Ui之fragment"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/378-3983",
+    "name": "Android 高级Ui"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/455-6167",
+    "name": "项目制作-简易版QQ"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/61-350",
+    "name": "Android 应用部署与发布"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/7-39",
+    "name": "Java For Android"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/11-64",
+    "name": "SVN & Git 版本控制"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/64-3040",
+    "name": "Android Camera & Recoder"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/65-693",
+    "name": "Android 多媒体"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/66-3051",
+    "name": "Android 传感器 Sensor"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/469-6169",
+    "name": "Android蓝牙开发"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/67-3057",
+    "name": "Android 社会化分享"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/68-5463",
+    "name": "Android 消息推送"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/69-3069",
+    "name": "Android 定位技术 LBS"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/70-711",
+    "name": "Android NDK 初步"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/71-717",
+    "name": "Android 电话与短信应用"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/72-688",
+    "name": "Android Launcher & Widget"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/481-6163",
+    "name": "项目实战二：android类似大众点评网项目"
+  },
+  {
+    "link": "http://www.maiziedu.com/course/course/android/484-6219",
+    "name": "android项目实战-汽车门户APP "
+  }]
